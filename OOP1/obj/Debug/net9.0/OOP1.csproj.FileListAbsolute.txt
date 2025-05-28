@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\bin\Debug\net9.0\OOP1.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\bin\Debug\net9.0\OOP1.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\bin\Debug\net9.0\OOP1.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\bin\Debug\net9.0\OOP1.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\bin\Debug\net9.0\OOP1.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\OOP1.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\OOP1.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\refint\OOP1.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\OOP1.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\OOP1.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1855\OOP1\obj\Debug\net9.0\ref\OOP1.dll

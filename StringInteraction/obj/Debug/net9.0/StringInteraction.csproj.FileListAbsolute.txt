@@ -1,0 +1,14 @@
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\bin\Debug\net9.0\StringInteraction.exe
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\bin\Debug\net9.0\StringInteraction.deps.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\bin\Debug\net9.0\StringInteraction.runtimeconfig.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\bin\Debug\net9.0\StringInteraction.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\bin\Debug\net9.0\StringInteraction.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\StringInteraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfoInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfo.cs
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\StringInteraction.csproj.CoreCompileInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\StringInteraction.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\refint\StringInteraction.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\StringInteraction.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\StringInteraction.genruntimeconfig.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\StringInteraction\obj\Debug\net9.0\ref\StringInteraction.dll

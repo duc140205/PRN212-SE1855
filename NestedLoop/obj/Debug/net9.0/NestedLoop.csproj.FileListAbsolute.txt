@@ -1,0 +1,14 @@
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\bin\Debug\net9.0\NestedLoop.exe
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\bin\Debug\net9.0\NestedLoop.deps.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\bin\Debug\net9.0\NestedLoop.runtimeconfig.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\bin\Debug\net9.0\NestedLoop.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\bin\Debug\net9.0\NestedLoop.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\NestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\NestedLoop.AssemblyInfoInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\NestedLoop.AssemblyInfo.cs
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\NestedLoop.csproj.CoreCompileInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\NestedLoop.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\refint\NestedLoop.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\NestedLoop.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\NestedLoop.genruntimeconfig.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\NestedLoop\obj\Debug\net9.0\ref\NestedLoop.dll

@@ -1,0 +1,4 @@
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.AssemblyInfoInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.AssemblyInfo.cs
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\VarAndDynamic\obj\Debug\net9.0\VarAndDynamic.csproj.CoreCompileInputs.cache

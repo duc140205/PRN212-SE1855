@@ -1,0 +1,14 @@
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\bin\Debug\net9.0\TupleSample.exe
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\bin\Debug\net9.0\TupleSample.deps.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\bin\Debug\net9.0\TupleSample.runtimeconfig.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\bin\Debug\net9.0\TupleSample.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\bin\Debug\net9.0\TupleSample.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\TupleSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\TupleSample.AssemblyInfoInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\TupleSample.AssemblyInfo.cs
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\TupleSample.csproj.CoreCompileInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\TupleSample.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\refint\TupleSample.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\TupleSample.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\TupleSample.genruntimeconfig.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\TupleSample\obj\Debug\net9.0\ref\TupleSample.dll

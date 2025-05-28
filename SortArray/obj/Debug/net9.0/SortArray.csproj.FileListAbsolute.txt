@@ -1,0 +1,14 @@
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.exe
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.deps.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.runtimeconfig.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.AssemblyInfoInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.AssemblyInfo.cs
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.csproj.CoreCompileInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\refint\SortArray.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.genruntimeconfig.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\SortArray\obj\Debug\net9.0\ref\SortArray.dll

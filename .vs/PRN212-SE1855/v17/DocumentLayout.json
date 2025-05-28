@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE412A8-2F09-4E5C-8606-BA6F30DD7FD3}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\oop4_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE412A8-2F09-4E5C-8606-BA6F30DD7FD3}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|solutionrelative:oop4_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C95F1E5-AD13-480A-9998-F934268862F9}|OOP2\\OOP2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C95F1E5-AD13-480A-9998-F934268862F9}|OOP2\\OOP2.csproj|solutionrelative:oop2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C95F1E5-AD13-480A-9998-F934268862F9}|OOP2\\OOP2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\oop2\\partimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C95F1E5-AD13-480A-9998-F934268862F9}|OOP2\\OOP2.csproj|solutionrelative:oop2\\partimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C95F1E5-AD13-480A-9998-F934268862F9}|OOP2\\OOP2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\oop2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C95F1E5-AD13-480A-9998-F934268862F9}|OOP2\\OOP2.csproj|solutionrelative:oop2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartimeEmployee.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP2\\PartimeEmployee.cs",
+              "RelativeDocumentMoniker": "OOP2\\PartimeEmployee.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP2\\PartimeEmployee.cs",
+              "RelativeToolTip": "OOP2\\PartimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:47:15.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FulltimeEmployee.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP2\\FulltimeEmployee.cs",
+              "RelativeDocumentMoniker": "OOP2\\FulltimeEmployee.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP2\\FulltimeEmployee.cs",
+              "RelativeToolTip": "OOP2\\FulltimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:47:13.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP4_Generic_Collection\\Program.cs",
+              "RelativeDocumentMoniker": "OOP4_Generic_Collection\\Program.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP4_Generic_Collection\\Program.cs",
+              "RelativeToolTip": "OOP4_Generic_Collection\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:10:50.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP2\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP2\\Employee.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP2\\Employee.cs",
+              "RelativeToolTip": "OOP2\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:56:40.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

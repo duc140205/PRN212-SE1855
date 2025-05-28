@@ -1,0 +1,14 @@
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.exe
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.deps.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.runtimeconfig.json
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\bin\Debug\net9.0\ParamForArray.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.AssemblyInfoInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.AssemblyInfo.cs
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.csproj.CoreCompileInputs.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\refint\ParamForArray.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.pdb
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ParamForArray.genruntimeconfig.cache
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\ParamForArray\obj\Debug\net9.0\ref\ParamForArray.dll

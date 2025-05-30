@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP2_Reuse_As_Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4b800f7c5d9e5d7c73bfddd44986421bf8fbbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae7ea9c47a143e6a29e6b1fa1bd51552f20eeb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP2_Reuse_As_Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP2_Reuse_As_Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VarAndDynamic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4b800f7c5d9e5d7c73bfddd44986421bf8fbbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("VarAndDynamic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VarAndDynamic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

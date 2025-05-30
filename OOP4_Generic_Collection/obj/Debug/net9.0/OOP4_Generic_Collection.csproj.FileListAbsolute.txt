@@ -19,3 +19,4 @@ D:\FPT Edu\SU25\PRN212\PRN212-SE1855\OOP4_Generic_Collection\obj\Debug\net9.0\re
 D:\FPT Edu\SU25\PRN212\PRN212-SE1855\OOP4_Generic_Collection\obj\Debug\net9.0\OOP4_Generic_Collection.pdb
 D:\FPT Edu\SU25\PRN212\PRN212-SE1855\OOP4_Generic_Collection\obj\Debug\net9.0\OOP4_Generic_Collection.genruntimeconfig.cache
 D:\FPT Edu\SU25\PRN212\PRN212-SE1855\OOP4_Generic_Collection\obj\Debug\net9.0\ref\OOP4_Generic_Collection.dll
+D:\FPT Edu\SU25\PRN212\PRN212-SE1855\OOP4_Generic_Collection\obj\Debug\net9.0\OOP4_Generic_Collection.sourcelink.json

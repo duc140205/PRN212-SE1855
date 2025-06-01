@@ -113,24 +113,24 @@ employees.ForEach(e => Console.WriteLine(e));
 Console.WriteLine("----Cập nhật thông tin nhân sự----");
 Console.WriteLine("Nhập Id nhân sự cần cập nhật:");
 int idToUpdate = int.Parse(Console.ReadLine());
-foreach (var emp in employees)
-{
-    if(emp.Id == idToUpdate)
+Employee empToUpdate = employees.FirstOrDefault(empToUpdate => empToUpdate.Id == idToUpdate);
+
+if (empToUpdate != null)
     {
-        Console.WriteLine("Profile:" + emp);
+        Console.WriteLine("Profile:" + empToUpdate);
         // Update thông tin
         Console.WriteLine("Nhập tên mới:");
-        emp.Name = Console.ReadLine();
+        empToUpdate.Name = Console.ReadLine();
 
         Console.WriteLine("Nhập IdCard mới:");
-        emp.IdCard = Console.ReadLine();
+        empToUpdate.IdCard = Console.ReadLine();
 
         Console.WriteLine("Nhập ngày sinh mới (yyyy/MM/dd):");
         string dateInput = Console.ReadLine();
         if(!string.IsNullOrEmpty(dateInput)) {
             try
             {
-                emp.Birthday = DateTime.Parse(dateInput);
+                empToUpdate.Birthday = DateTime.Parse(dateInput);
             }
             catch
             {
@@ -138,14 +138,33 @@ foreach (var emp in employees)
             }
         }
         Console.WriteLine("Cập nhật thành công!");
-        Console.WriteLine("Thông tin sau khi cập nhật: " + emp);
-        break;
+        Console.WriteLine("Thông tin sau khi cập nhật: " + empToUpdate);      
+    } else
+    {
+        Console.WriteLine("Không tìm thấy nhân sự với Id: " + idToUpdate);  
     }
-}
 
 // Hiển thị lại danh sách nhân sự sau khi cập nhật
 Console.WriteLine("----Danh sách nhân sự sau khi cập nhật----");
 employees.ForEach(e => Console.WriteLine(e));
 
-//Hihi
+//Câu 6: Xóa nhân sự
+Console.WriteLine("----Xóa nhân sự----");
+Console.WriteLine("Nhập Id nhân sự cần xóa:");
+int idToDelete = int.Parse(Console.ReadLine());
+Employee empToDelete = employees.FirstOrDefault(empToDelete => empToDelete.Id == idToDelete);
+
+if(empToDelete != null)
+{
+    employees.Remove(empToDelete);
+    Console.WriteLine("Xóa nhân sự thành công!");
+}
+else
+{
+    Console.WriteLine("Không tìm thấy nhân sự với Id: " + idToDelete);
+}
+// Hiển thị lại danh sách nhân sự sau khi xóa
+Console.WriteLine("----Danh sách nhân sự sau khi xóa----");
+employees.ForEach(e => Console.WriteLine(e));
+
 

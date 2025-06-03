@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CE412A8-2F09-4E5C-8606-BA6F30DD7FD3}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\oop4_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE412A8-2F09-4E5C-8606-BA6F30DD7FD3}|OOP4_Generic_Collection\\OOP4_Generic_Collection.csproj|solutionrelative:oop4_generic_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demolinq2object2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|solutionrelative:demolinq2object2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0679A31-4F6A-420E-A2C0-99BA4757CA1D}|DemoAliasAndClone\\DemoAliasAndClone.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demoaliasandclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0679A31-4F6A-420E-A2C0-99BA4757CA1D}|DemoAliasAndClone\\DemoAliasAndClone.csproj|solutionrelative:demoaliasandclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demolinq2object2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|solutionrelative:demolinq2object2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0679A31-4F6A-420E-A2C0-99BA4757CA1D}|DemoAliasAndClone\\DemoAliasAndClone.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demoaliasandclone\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0679A31-4F6A-420E-A2C0-99BA4757CA1D}|DemoAliasAndClone\\DemoAliasAndClone.csproj|solutionrelative:demoaliasandclone\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demolinq2object2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|solutionrelative:demolinq2object2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP4_Generic_Collection\\Program.cs",
-              "RelativeDocumentMoniker": "OOP4_Generic_Collection\\Program.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\OOP4_Generic_Collection\\Program.cs",
-              "RelativeToolTip": "OOP4_Generic_Collection\\Program.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAHoAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ListProduct.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\ListProduct.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2Object2\\ListProduct.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\ListProduct.cs",
+              "RelativeToolTip": "DemoLINQ2Object2\\ListProduct.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwDUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T04:56:02.456Z",
+              "WhenOpened": "2025-06-03T03:50:36.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoAliasAndClone\\Student.cs",
-              "RelativeDocumentMoniker": "DemoAliasAndClone\\Student.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoAliasAndClone\\Student.cs",
-              "RelativeToolTip": "DemoAliasAndClone\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Product.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2Object2\\Product.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Product.cs",
+              "RelativeToolTip": "DemoLINQ2Object2\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:27:46.887Z"
+              "WhenOpened": "2025-06-03T03:46:20.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoAliasAndClone\\Program.cs",
-              "RelativeDocumentMoniker": "DemoAliasAndClone\\Program.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoAliasAndClone\\Program.cs",
-              "RelativeToolTip": "DemoAliasAndClone\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCAAAABOAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Program.cs",
+              "RelativeDocumentMoniker": "DemoLINQ2Object2\\Program.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Program.cs*",
+              "RelativeToolTip": "DemoLINQ2Object2\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:27:04.76Z"
+              "WhenOpened": "2025-06-03T03:45:20.653Z",
+              "EditorCaption": ""
             }
           ]
         }

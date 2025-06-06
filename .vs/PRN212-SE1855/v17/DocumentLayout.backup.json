@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demolinq2object2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|solutionrelative:demolinq2object2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\lucy_salesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|solutionrelative:lucy_salesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demolinq2object2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|solutionrelative:demolinq2object2\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\demolinq2object2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ACEC72F-7D06-4A1D-B5ED-E58028AF5B7E}|DemoLINQ2Object2\\DemoLINQ2Object2.csproj|solutionrelative:demolinq2object2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\lucy_salesmanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|solutionrelative:lucy_salesmanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,40 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ListProduct.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\ListProduct.cs",
-              "RelativeDocumentMoniker": "DemoLINQ2Object2\\ListProduct.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\ListProduct.cs",
-              "RelativeToolTip": "DemoLINQ2Object2\\ListProduct.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAkwDUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:50:36.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Product.cs",
-              "RelativeDocumentMoniker": "DemoLINQ2Object2\\Product.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Product.cs",
-              "RelativeToolTip": "DemoLINQ2Object2\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:46:20.868Z",
+              "Title": "Lucy_SalesData.dbml",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Lucy_SalesData.dbml",
+              "RelativeDocumentMoniker": "Lucy_SalesManagement\\Lucy_SalesData.dbml",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Lucy_SalesData.dbml",
+              "RelativeToolTip": "Lucy_SalesManagement\\Lucy_SalesData.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-06-06T04:27:08.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Program.cs",
-              "RelativeDocumentMoniker": "DemoLINQ2Object2\\Program.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\DemoLINQ2Object2\\Program.cs*",
-              "RelativeToolTip": "DemoLINQ2Object2\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Lucy_SalesManagement\\Program.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Program.cs",
+              "RelativeToolTip": "Lucy_SalesManagement\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:45:20.653Z",
+              "WhenOpened": "2025-06-06T04:12:12.625Z",
               "EditorCaption": ""
             }
           ]

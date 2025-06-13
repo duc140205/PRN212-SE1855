@@ -1,0 +1,19 @@
+﻿<Window x:Class="HelloWpfApp.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWpfApp"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Màn hình đăng nhập" HorizontalAlignment="Center" Margin="0,120,0,0" VerticalAlignment="Top" Width="235" FontSize="24" Background="#FF36DA13" Foreground="#FFCD0C0C" RenderTransformOrigin="0.5,0.5"/>
+        <Button x:Name="btnDangnhap" Content="Đăng nhập" HorizontalAlignment="Left" Margin="272,327,0,0" VerticalAlignment="Top" FontSize="24" Click="btnDangnhap_Click"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="463,327,0,0" VerticalAlignment="Top" FontSize="24" RenderTransformOrigin="0.248,1.95" Click="btnThoat_Click"/>
+        <Label Content="Username:" HorizontalAlignment="Left" Margin="241,188,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="244,244,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.395,1.363" FontSize="20"/>
+        <TextBox x:Name="txtUserName" HorizontalAlignment="Left" Margin="400,192,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="149" FontSize="20" TextChanged="TextBox_TextChanged"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="400,253,0,0" VerticalAlignment="Top" Width="149" Height="28" FontSize="20"/>
+
+    </Grid>
+</Window>

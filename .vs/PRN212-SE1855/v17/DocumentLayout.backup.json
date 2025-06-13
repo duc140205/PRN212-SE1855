@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\lucy_salesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|solutionrelative:lucy_salesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\lucy_salesmanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{5A2862FB-10AC-4C04-BD8B-8A7A61888969}|Lucy_SalesManagement\\Lucy_SalesManagement.csproj|solutionrelative:lucy_salesmanagement\\lucy_salesdata.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+      "AbsoluteMoniker": "D:0:0:{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|d:\\fpt edu\\su25\\prn212\\prn212-se1855\\buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}|ButtonControl_TongHop\\ButtonControl_TongHop.csproj|solutionrelative:buttoncontrol_tonghop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,26 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lucy_SalesData.dbml",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Lucy_SalesData.dbml",
-              "RelativeDocumentMoniker": "Lucy_SalesManagement\\Lucy_SalesData.dbml",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Lucy_SalesData.dbml",
-              "RelativeToolTip": "Lucy_SalesManagement\\Lucy_SalesData.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2025-06-06T04:27:08.304Z",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:29:26.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Lucy_SalesManagement\\Program.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\Lucy_SalesManagement\\Program.cs",
-              "RelativeToolTip": "Lucy_SalesManagement\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T04:12:12.625Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T04:03:30.133Z",
               "EditorCaption": ""
             }
           ]

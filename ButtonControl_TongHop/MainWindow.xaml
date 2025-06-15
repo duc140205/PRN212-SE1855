@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ButtonControl_TongHop"
         mc:Ignorable="d"
-        Title="Tổng 2 số" Height="200" Width="300">
+        Title="SE192335-Hoàng Lê Thành Đức-Tổng 2 số" Height="200" Width="300">
     <StackPanel>
         <Label Target="{Binding ElementName=txtA}">
             Hệ số _a:</Label>

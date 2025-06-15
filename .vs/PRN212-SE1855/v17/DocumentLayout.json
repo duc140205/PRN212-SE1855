@@ -18,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIAwwCEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:29:26.495Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,7 +33,20 @@
               "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml",
               "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T04:03:30.133Z",
+              "WhenOpened": "2025-06-15T10:58:00.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT Edu\\SU25\\PRN212\\PRN212-SE1855\\ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonControl_TongHop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:57:55.259Z",
               "EditorCaption": ""
             }
           ]

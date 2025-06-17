@@ -1,0 +1,41 @@
+﻿<Window x:Class="RadioButtonControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioButtonControl"
+        mc:Ignorable="d"
+        Title="RadioButton Control" Height="450" Width="800">
+    <StackPanel>
+        <GroupBox Header="Bạn thấy hệ thống này thế nào?">
+            <StackPanel>
+                <RadioButton GroupName="hethong"
+                     Name="radRatTot">Rất tốt</RadioButton>
+                <RadioButton GroupName="hethong"
+                     Name="radTot">Tốt</RadioButton>
+                <RadioButton GroupName="hethong"
+                     Name="radTamDuoc">Tạm Được</RadioButton>
+                <RadioButton GroupName="hethong"
+                     Name="radKhongTot">Khôngtốt</RadioButton>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Giới tính của bạn là gì?">
+            <StackPanel>
+                <RadioButton GroupName="gioitinh"
+                     Name="radNam">Nam</RadioButton>
+                <RadioButton GroupName="gioitinh"
+                     Name="radNu">Nữ</RadioButton>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Chọn tác vụ:">
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Gửi phản hồi" Name="btnGui"
+                        Width="100" Margin="10,0"
+                    Click="BtnGui_Click"></Button>
+                <Button Content="Hủy" Name="btnHuy"
+                        Width="100" 
+                    Click="BtnHuy_Click"></Button>
+            </StackPanel>
+        </GroupBox>
+    </StackPanel>
+</Window>

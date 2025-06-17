@@ -75,6 +75,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF_Exercises", "WPF_Exerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonControl_TongHop", "ButtonControl_TongHop\ButtonControl_TongHop.csproj", "{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxControlEvent", "CheckBoxControlEvent\CheckBoxControlEvent.csproj", "{6BA20619-38D3-44D3-B863-752338134CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonControl", "RadioButtonControl\RadioButtonControl.csproj", "{868F2111-0B9E-4121-8804-F62B16F44576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +213,14 @@ Global
 		{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA20619-38D3-44D3-B863-752338134CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA20619-38D3-44D3-B863-752338134CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA20619-38D3-44D3-B863-752338134CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA20619-38D3-44D3-B863-752338134CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868F2111-0B9E-4121-8804-F62B16F44576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868F2111-0B9E-4121-8804-F62B16F44576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868F2111-0B9E-4121-8804-F62B16F44576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868F2111-0B9E-4121-8804-F62B16F44576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -227,6 +239,8 @@ Global
 		{5A2862FB-10AC-4C04-BD8B-8A7A61888969} = {DB156D8C-B15C-4021-A324-1DABF23FBB59}
 		{57FB8513-6ADF-4A1E-BAB1-27FAF9B40D67} = {5C95AA3B-0E52-4845-8D71-B59C14B53938}
 		{B1A1CE3C-664C-44E5-A0E3-CE9B1E26EB47} = {5B26BECD-1CFA-4AEE-97CA-DB8DDBA1BD33}
+		{6BA20619-38D3-44D3-B863-752338134CC4} = {5B26BECD-1CFA-4AEE-97CA-DB8DDBA1BD33}
+		{868F2111-0B9E-4121-8804-F62B16F44576} = {5B26BECD-1CFA-4AEE-97CA-DB8DDBA1BD33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {68ED25CF-1B6E-4AD8-973B-890B34FCFC9E}

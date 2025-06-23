@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp.ProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="ProductWindow" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,0,265" FontSize="20">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Mã sản phẩm" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn Header="Tên sản phẩm" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Số lượng" DisplayMemberBinding="{Binding Quantity}" />
+                    <GridViewColumn Header="Giá" DisplayMemberBinding="{Binding Price}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Mã sản phẩm:" HorizontalAlignment="Left" Margin="45,191,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Margin="235,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305" FontSize="20"/>
+        <Label Content="Tên sản phẩm:" HorizontalAlignment="Left" Margin="45,236,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="235,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305" FontSize="20"/>
+        <Label Content="Giá sản phẩm:" HorizontalAlignment="Left" Margin="45,330,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="235,334,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305" FontSize="20"/>
+        <Label Content="Số lượng:" HorizontalAlignment="Left" Margin="45,281,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Margin="235,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305" FontSize="20"/>
+        <Button x:Name="btnThemSanPham" Content="Thêm mới sản phẩm" HorizontalAlignment="Left" Margin="245,384,0,0" VerticalAlignment="Top" FontSize="20" Click="btnThemSanPham_Click"/>
+
+    </Grid>
+</Window>

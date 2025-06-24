@@ -29,5 +29,15 @@ namespace Services
         {
             return irepository.SaveProduct(product);
         }
+        public bool UpdateProduct(Product product)
+        {
+            return irepository.UpdateProduct(product);
+        }
+        public bool DeleteProduct(Product product)
+        {
+            return irepository.DeleteProduct(product);
+
+        }
     }
 }
+

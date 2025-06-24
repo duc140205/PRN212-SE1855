@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="ProductWindow" Height="450" Width="800">
     <Grid>
-        <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,0,265" FontSize="20">
+        <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,0,265" FontSize="20" SelectionChanged="lvProduct_SelectionChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Mã sản phẩm" DisplayMemberBinding="{Binding Id}" />
@@ -26,6 +26,8 @@
         <Label Content="Số lượng:" HorizontalAlignment="Left" Margin="45,281,0,0" VerticalAlignment="Top" FontSize="20"/>
         <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" Margin="235,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305" FontSize="20"/>
         <Button x:Name="btnThemSanPham" Content="Thêm mới sản phẩm" HorizontalAlignment="Left" Margin="245,384,0,0" VerticalAlignment="Top" FontSize="20" Click="btnThemSanPham_Click"/>
+        <Button x:Name="btnSua" Content="Sửa" HorizontalAlignment="Left" Margin="451,384,0,0" VerticalAlignment="Top" Height="31" Width="89" FontSize="22" Click="btnSua_Click"/>
+        <Button x:Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="582,384,0,0" VerticalAlignment="Top" Height="31" Width="73" FontSize="22" Click="btnXoa_Click"/>
 
     </Grid>
 </Window>

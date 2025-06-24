@@ -93,6 +93,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{71E07C2E-D978-440E-B4E6-4F5105F4BABB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter7_TreeView", "Chapter7_TreeView", "{95EDC4D5-927B-481D-A4AD-F34E1486CC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewWpfApp", "TreeViewWpfApp\TreeViewWpfApp.csproj", "{DB5F69A6-F391-41E8-B5CC-C6F254D24187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +263,10 @@ Global
 		{71E07C2E-D978-440E-B4E6-4F5105F4BABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E07C2E-D978-440E-B4E6-4F5105F4BABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E07C2E-D978-440E-B4E6-4F5105F4BABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5F69A6-F391-41E8-B5CC-C6F254D24187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5F69A6-F391-41E8-B5CC-C6F254D24187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5F69A6-F391-41E8-B5CC-C6F254D24187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5F69A6-F391-41E8-B5CC-C6F254D24187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -285,6 +293,7 @@ Global
 		{BB475974-8BC3-4C76-96E7-F0C0F7DC80A8} = {A58454DD-E574-4516-8865-E3C6ECDD2A1A}
 		{C7EA1271-7BFF-4066-AE8E-E22206975C43} = {A58454DD-E574-4516-8865-E3C6ECDD2A1A}
 		{71E07C2E-D978-440E-B4E6-4F5105F4BABB} = {A58454DD-E574-4516-8865-E3C6ECDD2A1A}
+		{DB5F69A6-F391-41E8-B5CC-C6F254D24187} = {95EDC4D5-927B-481D-A4AD-F34E1486CC76}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {68ED25CF-1B6E-4AD8-973B-890B34FCFC9E}

@@ -8,7 +8,7 @@ namespace DataAccessLayer
 {
     public class ProductDAO
     {
-      static List<Product> products = new List<Product>();
+       List<Product> products = new List<Product>();
         public void GenerateSampleDataset()
         {
             products.Add(new Product { Id = 1, Name = "Laptop", Quantity = 10, Price = 999.99 });
@@ -28,6 +28,26 @@ namespace DataAccessLayer
                 return false;//vì trùng mã nên ko phải thêm mới
             //thêm mới:
             products.Add(product);
+            return true;
+        }
+        public bool UpdateProduct(Product product)
+        {
+            Product old = products.FirstOrDefault(p => p.Id == product.Id);
+            if (old == null)
+                return false;//cannot find product to update so it won't be updated
+            //sửa dữ liệu:
+            old.Name = product.Name;
+            old.Quantity = product.Quantity;
+            old.Price = product.Price;
+            return true;
+        }
+
+        public bool DeleteProduct(Product product)
+        {
+            Product old = products.FirstOrDefault(p => p.Id == product.Id);
+            if (old == null)
+                return false;//cannot find product to update so it won't be updated
+            products.Remove(old);
             return true;
         }
     }

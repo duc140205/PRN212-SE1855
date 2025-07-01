@@ -1,1 +1,0 @@
-FullStructureProject.exe teo ty bin bo

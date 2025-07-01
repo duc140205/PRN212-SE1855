@@ -1,0 +1,37 @@
+﻿<Window x:Class="MyStoreWpfApp_EF.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyStoreWpfApp_EF"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" Height="50" Background="Yellow">
+            <Label Content="Phần mềm quản lý MyStore" FontSize="30" HorizontalAlignment="Center"/>
+
+        </StackPanel>
+        <WrapPanel DockPanel.Dock="Bottom" Height="30" Background="Pink">
+            <Label Content="Được thiết kế bởi: Ur Mom"/>
+
+        </WrapPanel>
+
+        <TreeView x:Name="tvCategory" DockPanel.Dock="Left" Background="Cyan" Width="300" SelectedItemChanged="tvCategory_SelectedItemChanged">
+            
+        </TreeView>
+
+        <DockPanel Background="Red">
+            <ListView x:Name="lvProduct" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,0,265" FontSize="20">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Mã sản phẩm" DisplayMemberBinding="{Binding ProductId}" />
+                        <GridViewColumn Header="Tên sản phẩm" DisplayMemberBinding="{Binding ProductName}" />
+                        <GridViewColumn Header="Số lượng" DisplayMemberBinding="{Binding UnitsInStock}" />
+                        <GridViewColumn Header="Giá" DisplayMemberBinding="{Binding UnitPrice}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </DockPanel>
+
+    </DockPanel>
+</Window>

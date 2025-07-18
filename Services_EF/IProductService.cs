@@ -11,5 +11,8 @@ namespace Services_EF
     {
         public List<Product> GetProducts();
         public List<Product> GetProductsByCategory(int categoryId);
+        public bool SaveProduct(Product product);
+        public bool UpdateProduct(Product product);
+        public bool DeleteProduct(int productId);
     }
 }
